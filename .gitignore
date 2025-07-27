@@ -4,3 +4,6 @@
 # Ignorar archivos de entorno (variables de entorno)
 .env
 .env.*
+
+__pycache__/
+*.pyc
